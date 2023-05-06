@@ -19,8 +19,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/results-summary-component-using-html-and-css-cl2K_0ypBa)
-- Live Site URL: (https://thiago87dev.github.io/Results-summary-component/)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-HehvuhTAhb)
+- Live Site URL: (https://thiago87dev.github.io/Product-preview-card-component-solution/)
 
 ## My process
 
