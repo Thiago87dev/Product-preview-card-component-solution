@@ -103,7 +103,12 @@ body{
     font-weight: 700;
     border: none;
     border-radius: 8px;
-    
+    cursor: pointer;
+
+}
+
+.btn:active{
+    background-color: hsl(212, 21%, 14%);
 }
 
 .shopping-cart{
@@ -117,5 +122,6 @@ body{
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 44%);
+    text-decoration: none; 
 }
